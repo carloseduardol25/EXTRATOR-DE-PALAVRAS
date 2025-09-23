@@ -21,7 +21,7 @@ function processaTexto(texto) {
                 frequencia[i]++; 
             }
         }
-        
+ }     
     return palavras;
 }
 
